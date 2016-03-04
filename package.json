@@ -1,0 +1,26 @@
+{
+  "name": "icing",
+  "version": "0.1.0",
+  "description": "Present Icing content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BurntIcing/IcingJS.git"
+  },
+  "keywords": [
+    "icing",
+    "content",
+    "format",
+    "rich",
+    "text"
+  ],
+  "author": "Patrick Smith",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/BurntIcing/IcingJS/issues"
+  },
+  "homepage": "https://github.com/BurntIcing/IcingJS#readme"
+}
