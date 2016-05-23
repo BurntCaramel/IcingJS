@@ -28,8 +28,8 @@
   "homepage": "https://github.com/BurntIcing/IcingJS#readme",
   "dependencies": {
     "immutable": "^3.7.6",
-    "react": "^0.14.7",
-    "react-dom": "^0.14.7"
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
   },
   "devDependencies": {
     "babel-cli": "^6.6.4",
